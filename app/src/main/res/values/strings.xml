@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EzyFoody</string>
+    <string name="drinks">Drinks</string>
+    <string name="my_order">My Order</string>
+    <string name="snacks">Snacks</string>
+    <string name="foods">Foods</string>
+    <string name="top_up">Top Up</string>
+    <string name="add">Add</string>
+    <string name="oder_more">Oder More</string>
+</resources>
